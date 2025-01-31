@@ -37,8 +37,6 @@ Welcome to the Blog Application repository! This project is a comprehensive blog
   - ✅ Zod Validation
 - **Database:**
   - 🐘 PostgreSQL
-- **Storage & CDN:**
-  - ☁️ AWS S3 Bucket
   - 📸 Cloudinary
 - **Containerization:**
   - 🐳 Docker
@@ -60,8 +58,11 @@ If you are interested in the backend code, please visit the [Backend Repository]
 To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/tanviirsinghh/Large-FireBase.git
+
+   ```
 
 1. Navigate to the project directory:
 
@@ -77,7 +78,3 @@ npm install
 
 bash
 npm run dev
-
-
-📧 Contact
-Tanvir Singh - tanviirsinghh@gmail.com
