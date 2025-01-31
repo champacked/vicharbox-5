@@ -45,34 +45,6 @@ Welcome to the Blog Application repository! This project is a comprehensive blog
 - **Custom Tools:**
   - 🔧 Custom NPM Package
 
-## 🌐 Live Demo
-
-Check out the live demo of the project [here](https://large-75896.web.app).
-
-## 📂 Backend Repository
-
-If you are interested in the backend code, please visit the [Backend Repository](https://github.com/tanviirsinghh/latestblog-backend).
-
-## 📦 Installation
-
-To get a local copy up and running, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/tanviirsinghh/Large-FireBase.git
-
-   ```
-
-1. Navigate to the project directory:
-
-bash
-cd Large-FireBase
-
-2. Install dependencies:
-
-bash
-npm install
 
 3.Start the development server:
 
