@@ -1,4 +1,3 @@
-//tsconfig.json
 {
   "compilerOptions": {
     "target": "ES2020",
@@ -6,14 +5,15 @@
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "module": "ESNext",
     "skipLibCheck": true,
-
-    /* Bundler mode */
-    "moduleResolution": "bundler",
+    "moduleResolution": "node", // Ensure you are using 'node' module resolution
     "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
+
+    /* Enable this flag to allow synthetic default imports */
+    "allowSyntheticDefaultImports": true,
 
     /* Linting */
     "strict": true,

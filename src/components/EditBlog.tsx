@@ -16,7 +16,7 @@ import { Editor as TinyMCEEditor } from "tinymce";
 import ImageUploadHook from "../hooks/ImageUploadHook";
 import axios from "axios";
 import { toast } from "react-toastify";
-import { BACKEND_URL } from "../config";
+import { BACKEND_URL } from "@/config";
 import { FourSquare } from "react-loading-indicators";
 import DOMPurify from "dompurify";
 import Navbar from "./user-profile/Navbar";
